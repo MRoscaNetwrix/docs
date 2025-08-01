@@ -249,6 +249,12 @@ export const PRODUCTS = [
         isLatest: false,
         sidebarFile: './sidebars/endpointprotector/5.9.4.js',
       },
+      {
+        version: '5.9.5.0',
+        label: '5.9.5.0',
+        isLatest: false,
+        sidebarFile: './sidebars/endpointprotector/5.9.5.0.js',
+      },
     ],
     defaultVersion: '5.9.4.2',
   },
