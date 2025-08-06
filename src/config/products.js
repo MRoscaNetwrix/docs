@@ -240,7 +240,7 @@ export const PRODUCTS = [
       {
         version: '5.9.4.2',
         label: '5.9.4.2',
-        isLatest: true,
+        isLatest: false,
         sidebarFile: './sidebars/endpointprotector/5.9.4.2.js',
       },
       {
@@ -249,8 +249,14 @@ export const PRODUCTS = [
         isLatest: false,
         sidebarFile: './sidebars/endpointprotector/5.9.4.js',
       },
+            {
+        version: '5.9.5.0',
+        label: '5.9.5.0',
+        isLatest: true,
+        sidebarFile: './sidebars/endpointprotector/5.9.5.0.js',
+      },
     ],
-    defaultVersion: '5.9.4.2',
+    defaultVersion: '5.9.5.0',
   },
   {
     id: 'identitymanager',
