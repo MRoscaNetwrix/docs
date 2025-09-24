@@ -29,7 +29,7 @@ The Web App Launcher for Netwrix Privilege Secure is an application used to laun
 See this article) for information about publishing RemoteApps.
 
 ## Deployment
-The Web App Launcher can be downloaded from [this link](https://dl.netwrix.com/additional/WebAppLauncher.zip).
+The Web App Launcher can be downloaded from [this link](https://dl.netwrix.com/additional/WebAppLauncher.zip). 
 
 On the RDS server, extract the files to a directory of your choosing. For the examples in this article, `C:\webapp-launcher\` will be used.
 
